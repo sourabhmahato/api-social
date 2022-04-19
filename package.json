@@ -1,0 +1,30 @@
+{
+  "name": "api-social",
+  "version": "1.0.0",
+  "description": "basic social media api",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourabhmahato/api-social.git"
+  },
+  "keywords": [
+    "express",
+    "social"
+  ],
+  "author": "SOURABH MAHATO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sourabhmahato/api-social/issues"
+  },
+  "homepage": "https://github.com/sourabhmahato/api-social#readme",
+  "dependencies": {
+    "date-format": "^4.0.7",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
