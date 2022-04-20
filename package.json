@@ -22,7 +22,8 @@
   "homepage": "https://github.com/sourabhmahato/api-social#readme",
   "dependencies": {
     "date-format": "^4.0.7",
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "heroku": "^7.60.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
